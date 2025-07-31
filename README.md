@@ -15,6 +15,7 @@ Example:
 
 In that problem above, I go with two approach: Fine-tune PhoBERT-base, Fine-tune viT5-base.
 This is my experimental result compared to other approaches:
-<img width="1236" height="612" alt="image" src="https://github.com/user-attachments/assets/eb5f06f3-3518-4916-b895-72c603959c64" />
+
+<img width="1243" height="606" alt="image" src="https://github.com/user-attachments/assets/ee148c85-10b6-4ad6-a2f5-a801477fd7be" />
 
 Reference (Preprocessing, Evaluating): https://github.com/ds4v/absa-vlsp-2018
